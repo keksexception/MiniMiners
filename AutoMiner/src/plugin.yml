@@ -1,0 +1,9 @@
+name: MiniMiners
+version: 1.0
+main: de.raffi.autominer.main.MiniMiners
+authors: [keksexception]
+
+commands:
+   miniminer:
+      aliases: [mm, minion] 
+   
